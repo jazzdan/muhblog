@@ -930,7 +930,7 @@ and does what the value inside of it corresponds to, which is `sys_exit`, so
 the program exits, that's it.
 
 When I compile and run this program, nothing happens, but
-`[strace](https://jvns.ca/blog/2015/04/14/strace-zine/)` tells me that it's
+[`strace`](https://jvns.ca/blog/2015/04/14/strace-zine/) tells me that it's
 doing exactly what I expected:
 
 ```
